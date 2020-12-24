@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Md. Mashfiqur Rahman",
+    "occupation": "Software Developer",
+    "description": "Full Stack Developer and Lead Instructor at Evident BD.",
+    "image": "Naz.jpg",
+    "bio": "My name is Mashfiq, I'm a Full Stack Web Application Developer. Currently I'm working at Evident BD.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "mashfiqurrr@gmail.com",
+    "phone": "+8801521455637",
+    "address": {
+      "street": "29/1,2,3 Justice Lalmohon Daslane,Sutrapur",
+      "city": "Dhaka",
+      "state": "Bangladesh",
+      "zip": "1100"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mashfiqur.rahman.714/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/md-mashfiqur-rahman-b4b0a2bb/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/atmr123/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Mashfiqur",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "University": "North South University",
+        "degree": "B.Sc in Computer Science & Engineering",
+        "graduated": "April 2020",
+        "result"   : "3.55 out of 4.00",
+        "description": "Graduated with Distinction(Distinction: Cum Laude)"
+      },
+      {
+        "school": "Engineering University Higher Secondary & College",
+        "group": "Science",
+        "graduated": "2013",
+        "result"   : "5.00 out of 5.00"
+      },
+      {
+        "school": "St. Gregory's High School",
+        "group": "Science",
+        "graduated": "2011",
+        "result"   : "5.00 out of 5.00"
+      }
+    ],
+    "work": [
+      {
+        "company": "Evident BD",
+        "title": "Software Engineer",
+        "years": "August 2020 - Present",
+        "description": "My core responsibility is to serve as a full stack web developer. I have to look over both the frontend and backend of a software application and ensure responsiveness of applications. I have to write complex queries on SQL to retrieve complex collections for both backend and restful API development. For backend data retrieving, I use JQuery Get/Post request as it is faster than usual. Moreover, being a part of the project management team, I take part in crucial decision-making processes for the future endeavors of the company."
+      },
+      {
+        "company": "Amin Travels & Tours",
+        "title": "Software Engineer",
+        "years": "November 2019 - July 2020 ",
+        "description": "Build there some desktop software for their busssiness purpose such as: inventory, accounting etc."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Laravel",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "MySql",
+        "level": "95%"
+      }, {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Attendance Keeper",
+        "category": "Zoom Clone built with NodeJS",
+        "image": "zoom.jpg",
+        "url": "https://www.attendancekeeper.net"
+      },
+      {
+        "title": "Inventory Keeper",
+        "category": "Robinhood Clone built with ReactJS",
+        "image": "robinhood.jpg",
+        "url": "https://www.inventorykeeper.net"
+      },
+      {
+        "title": "Manage Your E-commerce",
+        "category": "Robinhood Clone built with ReactJS",
+        "image": "robinhood.jpg",
+        "url": "https://www.manageyourecommerce.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
